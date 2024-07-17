@@ -13,12 +13,12 @@
 <h3> 📫 Connect with me:</h3>
 <p>
   
-  [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/yasser-osama)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   
 &nbsp;
 </p>
-    
-<br>
 
 <h3>💻 Languages and Tools:</h3>
   <p>
