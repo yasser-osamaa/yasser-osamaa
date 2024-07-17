@@ -12,7 +12,9 @@
 - 📫 How to reach me (yasserosamaa88@gmail.com)
 -  [My Linked-in]({www.linkedin.com/in/yasser-osama}).
 
-  <p align="center">
+
+<h3>Languages and Tools:</h3>
+  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,flutter,dart,cpp,js" />
   </a>
