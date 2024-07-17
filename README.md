@@ -13,10 +13,18 @@
 -  [My Linked-in]({www.linkedin.com/in/yasser-osama}).
 
 
+<h3>Connect with me:</h3>
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/yasser-osama"
+    
+<br>
+
 <h3>Languages and Tools:</h3>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,dart,firebase,js,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,dart,firebase,vscode,js,cpp" />
   </a>
 </p>
 
