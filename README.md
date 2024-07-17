@@ -12,7 +12,7 @@
 
 <h3> 📫 Connect with me:</h3>
 
-[![text](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/yasser-osama)
+[![text](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yasser-osama/)
 &nbsp;
 
 
