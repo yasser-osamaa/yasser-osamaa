@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning everything I can find about Flutter, Learning never stops!
 - Currently, I work at Udacity at DECI, where I can teach kids to code and be the programmers of the future.
+- I’m looking to collaborate on Flutter Projects.
 - How to reach me (yasserosamaa88@gmail.com)
 
 <h3> 📫 Connect with me:</h3>
