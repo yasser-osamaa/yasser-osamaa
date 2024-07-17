@@ -16,6 +16,10 @@
 
 <h3>Connect with me:</h3>
 <a href="www.linkedin.com/in/yasser-osama"><i class="fab fa-linkedin-in"></i></a>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.7/src/app/ci.min.css"
+/>
     
 <br>
 
