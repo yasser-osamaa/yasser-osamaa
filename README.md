@@ -7,16 +7,13 @@
 </p>
 
 - 🌱 I’m currently learning everything I can find about Flutter, Learning never stops!
-- 👯 I'm looking to collaborate on Flutter Projects
-- 📫 How to reach me (yasserosamaa88@gmail.com)
+- Currently, I work at Udacity at DECI, where I can teach kids to code and be the programmers of the future.
+- How to reach me (yasserosamaa88@gmail.com)
 
 <h3> 📫 Connect with me:</h3>
 
 [![text](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yasser-osama/)
 &nbsp;
-[![text](https://skillicons.dev/icons?i=gmail)](yasserosamaa88@gmail.com)
-&nbsp;
-
 
 <h3>💻 Languages and Tools:</h3>
   <p>
