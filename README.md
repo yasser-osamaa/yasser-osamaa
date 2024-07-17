@@ -14,7 +14,7 @@
 <p>
   
   <a href="www.linkedin.com/in/yasser-osama">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
   </a>
   
 &nbsp;
