@@ -6,24 +6,23 @@
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="animated" />
 </p>
 
- 
-
 - 🌱 I’m currently learning everything I can find about Flutter, Learning never stops!
 - 👯 I'm looking to collaborate on Flutter Projects
 - 📫 How to reach me (yasserosamaa88@gmail.com)
--  [My Linked-in]({www.linkedin.com/in/yasser-osama}).
 
-
-<h3>Connect with me:</h3>
-<a href="www.linkedin.com/in/yasser-osama"><i class="fab fa-linkedin-in"></i></a>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.7/src/app/ci.min.css"
-/>
+<h3> 📫 Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
     
 <br>
 
-<h3>Languages and Tools:</h3>
+<h3>💻 Languages and Tools:</h3>
   <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,flutter,dart,firebase,vscode,js,cpp" />
