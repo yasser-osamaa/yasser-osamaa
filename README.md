@@ -11,19 +11,12 @@
 - 📫 How to reach me (yasserosamaa88@gmail.com)
 
 <h3> 📫 Connect with me:</h3>
-<p>
-  
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-&nbsp;
-</p>
-
-<h3>💻 Languages and Tools:</h3>
 
 [![text](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/yasser-osama)
+&nbsp;
 
+
+<h3>💻 Languages and Tools:</h3>
   <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,flutter,dart,firebase,vscode,js,cpp" />
