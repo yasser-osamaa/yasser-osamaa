@@ -13,7 +13,7 @@
 <h3> 📫 Connect with me:</h3>
 <p>
   
-  <a href="www.linkedin.com/in/yasser-osama">
+  <a href="yasserosamaa88@gmail.com">
     <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
   </a>
   
