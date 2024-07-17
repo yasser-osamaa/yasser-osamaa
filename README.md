@@ -3,7 +3,8 @@
 <h3 align="center">Instructor @Udacity in DECI</h3>
  
 
-<img src="https://lottie.host/cd649c08-182c-430b-80b3-9c3c0ba743e1/n578ZxJWZQ.json" width="300">
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - 🌱 I’m currently learning everything I can find about Flutter, Learning never stops!
 - 👯 I'm looking to collaborate on Flutter Projects
