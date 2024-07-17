@@ -14,6 +14,8 @@
 
 [![text](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yasser-osama/)
 &nbsp;
+[![text](https://skillicons.dev/icons?i=gmail)](yasserosamaa88@gmail.com)
+&nbsp;
 
 
 <h3>💻 Languages and Tools:</h3>
