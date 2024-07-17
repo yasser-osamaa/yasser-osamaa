@@ -1,11 +1,12 @@
 ### 👋 Hi, I’m @yasser-osamaa
-<center>**Flutter Developer**
-**Instructor @Udacity** </center> 
-![Codeing.](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+**Flutter Developer**
+**Instructor @Udacity in DECI**  
+![image]({https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif})
+
 - 🌱 I’m currently learning everything I can find about Flutter, Learning never stops!
 - 👯 I'm looking to collaborate on Flutter Projects
 - 📫 How to reach me (yasserosamaa88@gmail.com)
--  [My Linked-in](www.linkedin.com/in/yasser-osama).
+-  [My Linked-in]({www.linkedin.com/in/yasser-osama}).
 
 
 
