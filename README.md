@@ -4,7 +4,7 @@
  
 
 
-![Alt Text](https://iconscout.com/lottie-animation/app-developer-7398639)
+![Alt Text](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 - 🌱 I’m currently learning everything I can find about Flutter, Learning never stops!
 - 👯 I'm looking to collaborate on Flutter Projects
