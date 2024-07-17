@@ -6,6 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="animated" />
 </p>
 
+ 
 
 - 🌱 I’m currently learning everything I can find about Flutter, Learning never stops!
 - 👯 I'm looking to collaborate on Flutter Projects
@@ -14,10 +15,7 @@
 
 
 <h3>Connect with me:</h3>
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/yasser-osama"
+<a href="www.linkedin.com/in/yasser-osama"><i class="fab fa-linkedin-in"></i></a>
     
 <br>
 
