@@ -12,9 +12,10 @@
 
 <h3> 📫 Connect with me:</h3>
 <p>
-  <a href="www.linkedin.com/in/yasser-osama" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+  
+  [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/yasser-osama)
+  
+&nbsp;
 </p>
     
 <br>
