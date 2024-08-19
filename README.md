@@ -18,7 +18,7 @@
 <h3>💻 Languages and Tools:</h3>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,dart,firebase,vscode,js,cpp,java,hive" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,dart,firebase,vscode,js,cpp,java,mysql" />
   </a>
 </p>
 
