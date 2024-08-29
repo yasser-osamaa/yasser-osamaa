@@ -9,7 +9,6 @@
 - I’m currently learning everything I can find about Flutter, Learning never stops!
 - I’m looking to collaborate on Flutter Projects.
 - Fun fact always learning.
-Connect with me:
 - How to reach me (yasserosamaa88@gmail.com)
 
 <h3> 📫 Connect with me:</h3>
